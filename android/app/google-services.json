@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313210950025",
+    "firebase_url": "https://visionnew13-9b56a-default-rtdb.firebaseio.com",
+    "project_id": "visionnew13-9b56a",
+    "storage_bucket": "visionnew13-9b56a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313210950025:android:47a7c52671a8c0bf66d158",
+        "android_client_info": {
+          "package_name": "com.flutterflow.new1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313210950025-kaomahctlo022b7t734fku7mlj4afi2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2Yc_ckHmCt0WSyfCLx2sjzkktup9BnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313210950025-kaomahctlo022b7t734fku7mlj4afi2j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313210950025-6130jgg1veq9avprg4h764bdl5lv9juu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.new1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
